@@ -1,7 +1,5 @@
-# NLP_exploratory
+# Exploration of worldnews posts using NLP methods
 
-
-# What I worked on
 1. Exploratory Analysis:
 > - how many articles? per year, month, etc.
 > - distribution of upvote scores?
