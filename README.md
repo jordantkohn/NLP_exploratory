@@ -18,7 +18,7 @@
 > - how does sentiment affect upvotes?
 > - do certain topics have more positive/negative sentiment?
 
-4. If I had more time
+4. Future to-do's:
 > - text generation. fine-tune a transformer text model (BERT, GPT-#) on titles with high upvotes. purpose: help authors generate titles that get good engagement, are popular
 > - named entity recognition. pick out proper nouns (countries) and see how their presence affects up votes. and how they trend over time
 > - predict number of upvotes based on topics, sentiment, date, time, etc
